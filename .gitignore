@@ -1,0 +1,5 @@
+/Example/project/*
+/Example/target/*
+/Example/.idea/*
+/Example/core/target/*
+/Example/util/target/*

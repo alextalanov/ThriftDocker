@@ -1,0 +1,7 @@
+version: "3.7"
+services:
+  thrift:
+    container_name: thrift
+    image: docker.io/dockeralexandrtalan/thrift
+    volumes:
+      - ./Example:/root/project
